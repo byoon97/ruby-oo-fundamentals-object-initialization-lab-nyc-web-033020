@@ -16,6 +16,3 @@ class Dog
     @breed
   end
 end
-
-dog = Dog.new("Mutt")
-dog.breed
