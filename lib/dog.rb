@@ -12,5 +12,3 @@ class Dog
     @breed
   end
 end
-
-Dog.breed=("Mutt")
